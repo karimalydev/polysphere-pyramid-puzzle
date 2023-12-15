@@ -1,6 +1,24 @@
-# default
+# Advanced Software Project Group 7 Task 4&5
 
-## Project setup
+## Description
+Advanced Software Project Group 7 Task 4&5 is an innovative 3D puzzle game that invites players to strategically place various geometric shapes into a pyramid structure. Leveraging Vue.js for frontend development and THREE.js for 3D rendering, this project offers an immersive and interactive puzzle-solving experience.
+
+
+## Playing the Game
+- Open the game in a web browser.
+- Select a shape from the sidebar.
+- Use the control buttons to position the shape within the pyramid.
+- Continue placing shapes until the pyramid is successfully filled.
+
+## Features
+- Real-time 3D Puzzle: Engage in a puzzle-solving experience with a 3D interactive environment.
+- Intuitive Controls: Manipulate shapes using an easy-to-use interface.
+- Dynamic Rendering: Experience the game's visual appeal with THREE.js, enabling vivid and smooth 3D animations.
+- Algorithmic Solutions: Challenge yourself with algorithm-driven puzzles that require strategic thinking.
+
+## Installation
+
+To set up the project locally:
 
 ```
 # yarn
@@ -15,39 +33,3 @@ pnpm install
 # bun
 bun install
 ```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# bun
-bun run dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# bun
-bun run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).

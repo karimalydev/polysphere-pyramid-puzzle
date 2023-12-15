@@ -4,6 +4,9 @@
 Advanced Software Project Group 7 Task 4&5 is an innovative 3D puzzle game that invites players to strategically place various geometric shapes into a pyramid structure. Leveraging Vue.js for frontend development and THREE.js for 3D rendering, this project offers an immersive and interactive puzzle-solving experience.
 
 
+Project Link: [https://karimalydev.github.io/polysphere-pyramid-puzzle/](https://karimalydev.github.io/polysphere-pyramid-puzzle/)
+
+
 ## Playing the Game
 - Open the game in a web browser.
 - Select a shape from the sidebar.

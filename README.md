@@ -36,3 +36,6 @@ pnpm install
 # bun
 bun install
 ```
+
+![WhatsApp Image 2023-12-14 at 9 54 14 PM](https://github.com/karimalydev/polysphere-pyramid-puzzle/assets/147738989/512f5834-9c83-4437-893d-0b86a57f7ae7)
+
